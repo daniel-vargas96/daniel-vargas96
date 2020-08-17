@@ -19,13 +19,13 @@
 
 <br>
 
-  <a href="https://www.linkedin.com/in/danielvargas96">
+  <a href="https://www.linkedin.com/in/danielvargas96" target="_blank" >
     <img align="left" alt="Daniel Vargas | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
-  <a href="mailto:dannyvargashb@gmail.com">
+  <a href="mailto:dannyvargashb@gmail.com" target="_blank" >
     <img align="left" alt="Daniel Vargas | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
-  <a href="https://www.daniel-vargas.com">
+  <a href="https://www.daniel-vargas.com" target="_blank" >
     <img align="left" alt="Daniel Vargas | Portfolio" width="26px" src="https://image.flaticon.com/icons/svg/13/13706.svg" />
   </a>
 
