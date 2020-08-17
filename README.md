@@ -19,6 +19,9 @@
 
 <br>
 
+# Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+  <hr>
+
   <a href="https://www.linkedin.com/in/danielvargas96" target="_blank" >
     <img align="left" alt="Daniel Vargas | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
