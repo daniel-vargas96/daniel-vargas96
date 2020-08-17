@@ -7,7 +7,7 @@
     I am a Full-Stack Developer based out of Orange County, California. I am a recent graduate from the <b>LearningFuze</b> Web Development coding bootcamp, and have completed
     a number of projects that include technologies such as: <b>HTML, CSS, JavaScript, Node.js, Express, React.js, and PostgreSQL</b>. 
     <br><br>
-    I have a strong passion for web development and building tools that others can utilize, and benefit from. I strive to learn every day and enhance my skills in Full-Stack    Development to be a valuable member of a team or company.    
+    I have a strong passion for web development and building tools that others can utilize, and benefit from. I strive to learn every day and enhance my skills in Full-Stack    Development to be a valuable member of a team and company.    
   </em>  
 </p>
 
